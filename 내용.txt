@@ -1,0 +1,10 @@
+폰트 : proxima-nova, nanum Gothic, arial, sans-serif
+
+반응형 : 760이하
+
+
+pc버전
+박스 컨텐츠 
+> 박스 컨텐츠2 : 너비 1/2
+> 박스 컨텐츠3 : 높이 1/2
+> 박스 컨텐츠4 : 너비 1/2
